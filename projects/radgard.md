@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/radgard_logo.png
+image: img/radgrad_logo.png
 title: "Radgard"
 date: 2022-09-16
 published: true
