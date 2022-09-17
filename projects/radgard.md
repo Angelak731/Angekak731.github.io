@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/radgard_logo.png
 title: "Radgard"
 date: 2022-09-16
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Educational technology
+  - Javascript
+  - React
 summary: "Radgard is a combination of a social network, degree planner, and career explorer. It is intended to improve engagement, retention, and diversity in undergraduate STEM majors."
 ---
 
