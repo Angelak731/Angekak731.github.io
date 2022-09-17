@@ -4,7 +4,7 @@ type: project
 image: img/radgrad_logo.png
 title: "Radgard"
 date: 2022-09-16
-published: true
+published: false
 labels:
   - Educational technology
   - Javascript
