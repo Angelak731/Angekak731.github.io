@@ -45,7 +45,7 @@ Relationships, regardless if they're romantic or not take work. Humans are fickl
 
 Relationships have always been difficult, and by nature will continue to be so.
 
-## Okay!
+## Okay! 
 
 So back to the original premise; why is being one of the club officers so difficult?
 
