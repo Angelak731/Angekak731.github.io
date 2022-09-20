@@ -8,6 +8,9 @@ labels:
   - MIS
   - WOD
 ---
+## Summary
+
+The first 3 WODs which are BrowserHistory1, BrowserHistory2, and BrowserHistory3 explain how to code a web page. BrowserHistory1focuses on setting up a website’s content. The purpose of BrowserHistory2 is to incorporate colors and fonts into the website's style. Finally, BrowserHistory3 presents the navigation bar, and formatting of the site.
 
 ## Browser history 1
 
