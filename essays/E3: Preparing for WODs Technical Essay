@@ -1,10 +1,34 @@
 ---
 layout: essay
 type: essay
-title: "E1: UI Basics Technical Essay"
-date: 2022-09-18
+title: "E3: Preparing for WODs Technical Essay"
+date: 2022-10-6
 published: true
 labels:
-  - MIS
   - WOD
 ---
+## Summary
+I'll discuss the five WODs I've completed in this essay. The purpose of each WOD are different. I'll share how many times I attempted to do each WOD and  describe the difficulties of certain WODs.
+
+## BrowserHistory6
+
+We had to develop four unique web pages for Browser History 6. I watched the screencast before starting the work, much like with the past BrowserHistory WODs. This WOD took me two tries to complete in the Rx time. I struggled a lot with the onmouseover and onclick functions at the first try because I would type something wrong. Before my 2nd try, I rewatched the screencast so that I could do the onmouseover and onclick functions correctly.
+
+## Invoice1
+
+In invoice1, we were tasked with creating an invoice to include different products, tax, subtotal, and total. I consider invoice 1 to be the most challenging WOD out of the other WODs. This WOD took me a lot longer than the others, and I had to watch the screencast multiple times to remember what to do. My confusion came from not understanding how to begin since I am having difficulty with several sections. What I did that I would recommend to others is to preparing everything before starting the WOD. This will make it easily available and save you from spending time looking and trying to figure everything out while doing the WOD still going.According to instructions, invoice 1 was completed; however, I am still working on my timer.
+
+## Invoice2
+Creating a sales receipt using Javascript expressions for Invoice 2 requires adding a few additional capabilities to Invoice 1.I believed that of the WODs, invoice2 was the simplest and fastest for me because I was able to get a Rx time on the first try. Just like the other WODs, I watched the screencast first too see what results I'm supposed to get and also to clarify how to do parts that seem confusing. However, overall I learned how to create a line on the receipt for our shipping costs, determine those costs using the given criteria, and change the code.
+
+## SmartPhoneProducts1
+
+For this WOD, I needed to keep working on and improving my prior smartphone items by modifying some of the information. This WOD took me two tries with a Rx time. Like previously, I read the instructions and watched the screencast to see how to perform the steps. My only struggle was that on the first try I tried to do it fast so there were errors. I gained knowledge about the quick search command through this project which I will be using in my future WODs.
+
+## SmartPhoneProducts2
+
+Loops were used to demonstrate to us how to prevent repetitive code. I'm attempting this WOD once more in an effort to speed up my performance. This time, as usual I watched the screencast beforehand . However this time, before recording myself, followed the screencast to ensure that I would get the same outcomes.
+
+## Conclusion
+
+I learned from this experience that you shouldn't speed through the WODs and to be carful because one small mistake can screw you up. Just like mt SmartPhoneProducts1 WOD, because I rushed it at the first attemp, I got errors and it took me a long time to figure out what was wrong. I will also be doing the same thing for my other WODs in the future by watching the screencast first then trying the WODs. Also, before recording myself I might do what I did in SmartPhoneProducts2 by doing it first with the screencast.
