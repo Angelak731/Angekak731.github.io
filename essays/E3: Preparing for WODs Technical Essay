@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="E3: Preparing for WODs Technical Essay | Angela Khorana | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/Angelak731.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Angela Khorana | Professional Portfolio">
+    <meta property="og:url" content="https://Angela731.github.io/essays/E3:%20Preparing%20for%20WODs%20Technical%20Essay">
+    <meta property="og:title" content="E3: Preparing for WODs Technical Essay | Angela Khorana | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/Angelak731.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>E3: Preparing for WODs Technical Essay | Angela Khorana | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Angela Khorana</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">E3: Preparing for WODs Technical Essay</h1>
+  <span class="date">06 Oct 2022</span>
+  <hr>
+  ## Summary
+I'll discuss the five WODs I've completed in this essay. The purpose of each WOD are different. I'll share how many times I attempted to do each WOD and  describe the difficulties of certain WODs.
+
+## BrowserHistory6
+
+We had to develop four unique web pages for Browser History 6. I watched the screencast before starting the work, much like with the past BrowserHistory WODs. This WOD took me two tries to complete in the Rx time. I struggled a lot with the onmouseover and onclick functions at the first try because I would type something wrong. Before my 2nd try, I rewatched the screencast so that I could do the onmouseover and onclick functions correctly.
+
+## Invoice1
+
+In invoice1, we were tasked with creating an invoice to include different products, tax, subtotal, and total. I consider invoice 1 to be the most challenging WOD out of the other WODs. This WOD took me a lot longer than the others, and I had to watch the screencast multiple times to remember what to do. My confusion came from not understanding how to begin since I am having difficulty with several sections. What I did that I would recommend to others is to preparing everything before starting the WOD. This will make it easily available and save you from spending time looking and trying to figure everything out while doing the WOD still going.According to instructions, invoice 1 was completed; however, I am still working on my timer.
+
+## Invoice2
+Creating a sales receipt using Javascript expressions for Invoice 2 requires adding a few additional capabilities to Invoice 1.I believed that of the WODs, invoice2 was the simplest and fastest for me because I was able to get a Rx time on the first try. Just like the other WODs, I watched the screencast first too see what results I'm supposed to get and also to clarify how to do parts that seem confusing. However, overall I learned how to create a line on the receipt for our shipping costs, determine those costs using the given criteria, and change the code.
+
+## SmartPhoneProducts1
+
+For this WOD, I needed to keep working on and improving my prior smartphone items by modifying some of the information. This WOD took me two tries with a Rx time. Like previously, I read the instructions and watched the screencast to see how to perform the steps. My only struggle was that on the first try I tried to do it fast so there were errors. I gained knowledge about the quick search command through this project which I will be using in my future WODs.
+
+## SmartPhoneProducts2
+
+Loops were used to demonstrate to us how to prevent repetitive code. I'm attempting this WOD once more in an effort to speed up my performance. This time, as usual I watched the screencast beforehand . However this time, before recording myself, followed the screencast to ensure that I would get the same outcomes.
+
+## Conclusion
+
+I learned from this experience that you shouldn't speed through the WODs and to be carful because one small mistake can screw you up. Just like mt SmartPhoneProducts1 WOD, because I rushed it at the first attemp, I got errors and it took me a long time to figure out what was wrong. I will also be doing the same thing for my other WODs in the future by watching the screencast first then trying the WODs. Also, before recording myself I might do what I did in SmartPhoneProducts2 by doing it first with the screencast.
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
